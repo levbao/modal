@@ -19,7 +19,7 @@ class Modal {
             this.init();
         }
     }
-    init() => {
+    init() {
         this.openModal();
         this.onCloseClick();
     }
